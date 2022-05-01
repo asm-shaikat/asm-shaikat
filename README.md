@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **A social media project**
 
 - 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://mdshaikat.wordpress.com/](https://mdshaikat.wordpress.com/)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/asm-shaikat](https://sites.google.com/view/asm-shaikat)
 
-- 📝 I regularly write articles on [https://mdshaikat.wordpress.com/](https://mdshaikat.wordpress.com/)
+- 📝 I regularly write articles on [https://sites.google.com/view/asm-shaikat](https://sites.google.com/view/asm-shaikat)
 
-- 💬 Ask me about **HTML5,CSS3,Bootstrap,Php**
+- 💬 Ask me about **HTML5,CSS3,Bootstrap,Php*,Laravel*
 
 - 📫 How to reach me **asmshaikat1952@gmail.com**
 
