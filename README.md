@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **A social media project**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Laravel**
 
