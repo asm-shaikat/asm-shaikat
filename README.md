@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://sites.google.com/view/asm-shaikat](https://sites.google.com/view/asm-shaikat)
 
-- 💬 Ask me about **HTML5,CSS3,Bootstrap,Php*,Laravel*
+- 💬 Ask me about **HTML5,CSS3,JavaScript*,Bootstrap,Php*,Laravel*
 
 - 📫 How to reach me **asmshaikat1952@gmail.com**
 
