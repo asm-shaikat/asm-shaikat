@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/asm-shaikat](https://sites.google.com/view/asm-shaikat)
+- 👨‍💻 All of my projects are available at [https://ephemeral-babka-2cbf48.netlify.app/](https://ephemeral-babka-2cbf48.netlify.app/)
 
 - 📝 I regularly write articles on [https://sites.google.com/view/asm-shaikat](https://sites.google.com/view/asm-shaikat)
 
