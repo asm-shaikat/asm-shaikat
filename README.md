@@ -10,5 +10,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/asm/count.svg?"  />
 </div>
-###
+
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=asm-shaikat&theme=xcode)
