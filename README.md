@@ -31,6 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asm-shaikat&show_icons=true&locale=en&layout=compact" alt="asm-shaikat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asm-shaikat&show_icons=true&locale=en" alt="asm-shaikat" /></p>
+ ![Snake animation](https://github.com/asm-shaikat/asm-shaikat/blob/output/github-contribution-grid-snake.svg)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asm-shaikat&" alt="asm-shaikat" /></p>
 
