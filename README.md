@@ -15,10 +15,6 @@ I'm Shaikat, a passionate Full Stack Web Application Developer & Competitive Pro
 
 
 
-<div align="center">
-  ### ✍️ Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 ###
 
