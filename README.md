@@ -2,7 +2,7 @@
 
 ## Hi there <img src="public/hello.gif" width="28px" alt="hi">
 
-I'm Shaikat, a passionate Full Stack Web Application Developer & Competitive Programmer from <img src="public/bangladesh.png" width="18"/>. I Spend most of time coding outstanding projects or learn someting new.
+I'm Shaikat, a passionate Full Stack Web Application Developer & Competitive Programmer. I Spend most of time coding outstanding projects or learn someting new.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=asm-shaikat" height="150" alt="stats graph"  />
