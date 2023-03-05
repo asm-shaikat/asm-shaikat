@@ -17,6 +17,3 @@ I'm Shaikat, a passionate Full Stack Web Application Developer & Competitive Pro
 
 
 ###
-
-
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=asm-shaikat&theme=react)
