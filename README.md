@@ -1,20 +1,104 @@
-![Header](./cover.png)
+# Abu Shadat Shaikat — Portfolio
 
-## Hi there <img src="public/hello.gif" width="28px" alt="hi">
+Personal portfolio of **Abu Shadat Shaikat**, Software Engineer (Laravel · Node.js · React · Next.js · Vue.js · Flutter) based in Dhaka, Bangladesh.
 
-I'm Shaikat, a passionate Full Stack Web Application Developer & Competitive Programmer. I Spend most of time coding outstanding projects or learn someting new.
+**Live site → [shaikat.netlify.app](https://shaikat.netlify.app)**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&username=asm-shaikat" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=asm-shaikat" height="150" alt="languages graph"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/preview-dark.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/preview-light.jpg">
+  <img alt="Portfolio hero section" src="docs/preview-dark.jpg">
+</picture>
 
+<p align="center"><sub>The preview follows your GitHub theme: dark mode on the site in dark, light mode in light.</sub></p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
+## Highlights
 
-## 🚀 Fun Projects
-- [🔗 Awesome dev portfolio](https://portfolio-blue-one-88.vercel.app/) — Fun portfolio idea.
+- **Glassmorphism + liquid glass UI**: frosted panels with specular highlights and lit edges. On Chromium browsers, small elements also refract the background through an SVG displacement filter. Other browsers get the frosted fallback.
+- **Light and dark themes**: follows the system setting by default and remembers a manual choice. An inline script applies the theme before paint, so there's no flash.
+- **Content from one file**: every section (hero code card, about, skills, projects, experience, education) reads from [`src/app/(main)/data/resume.ts`](<src/app/(main)/data/resume.ts>).
+- **Responsive**: desktop pill navbar with a sliding active-section indicator. On mobile and tablet, a full-screen glass menu that locks scrolling, closes on <kbd>Esc</kbd>, and manages focus.
+- **Smooth by design**: animations only use `transform` and `opacity`. Animated regions pause off-screen via `IntersectionObserver`, and `prefers-reduced-motion` is respected throughout.
+- **SEO**: full metadata, Open Graph and Twitter cards, canonical URLs, JSON-LD `Person` schema, plus generated `sitemap.xml`, `robots.txt` and web manifest.
+- **Static export**: builds to plain HTML/CSS/JS (`out/`), so it can be hosted anywhere.
 
-###
+## Tech stack
+
+| Area | Tools |
+| --- | --- |
+| Framework | [Next.js 15](https://nextjs.org) (App Router, static export), React 19 |
+| Language | TypeScript |
+| Styling | Tailwind CSS v4, custom CSS design tokens |
+| Icons | react-icons |
+| Fonts | Geist, Geist Mono, Instrument Serif (via `next/font`) |
+| Contact form | [FormSubmit](https://formsubmit.co) |
+| CI | GitHub Actions: install and build on every push / PR |
+
+## Getting started
+
+Requires **Node.js 20+**.
+
+```bash
+git clone https://github.com/asm-shaikat/awesome-portfolio.git
+cd awesome-portfolio
+npm install
+npm run dev          # http://localhost:3000
+```
+
+| Script | What it does |
+| --- | --- |
+| `npm run dev` | Start the dev server |
+| `npm run build` | Production build + static export to `out/` |
+| `npm run lint` | Run ESLint |
+
+> **Tip:** don't run `npm run build` while `npm run dev` is running. Both write to `.next/`, and the dev server will start serving broken styles. If that happens, stop it, run `rm -rf .next`, and start again.
+
+## Project structure
+
+```
+src/app/
+├── layout.tsx              # <html>, fonts, metadata/SEO, JSON-LD, theme script, backdrop
+├── page.tsx                # Home: Hero → Tech strip → About → Skills → Projects → Experience → Contact
+├── globals.css             # Theme tokens (light/dark), glass + liquid-glass styles, animations
+├── sitemap.ts · robots.ts · manifest.ts
+└── (main)/
+    ├── data/resume.ts      # ← all portfolio content lives here
+    ├── components/
+    │   ├── Navbar.tsx      # Desktop pill + mobile full-screen menu
+    │   ├── HeroSection.tsx
+    │   ├── HeroCodeCard.tsx# "about.ts" code window with floating stat chips
+    │   ├── TechStrip.tsx   # Scrolling tech-stack marquee
+    │   ├── AboutSection.tsx
+    │   ├── SkillSection.tsx
+    │   ├── ExperienceSection.tsx
+    │   ├── ContactForm.tsx
+    │   ├── Footer.tsx
+    │   ├── ThemeToggle.tsx
+    │   ├── Section.tsx     # Shared section header + helpers
+    │   └── space/SpaceZone.tsx  # Pauses animations while off-screen
+    ├── views/ProjectsSection.tsx
+    └── projects/page.jsx   # /projects: all projects
+```
+
+## Customizing
+
+- **Content**: edit [`resume.ts`](<src/app/(main)/data/resume.ts>). Wrap words in `**double asterisks**` to highlight them. Add `live: 'https://…'` to a project to show a link button on its card.
+- **Colors**: change the tokens at the top of [`globals.css`](src/app/globals.css) (`:root` for light, `.dark` for dark).
+- **Photo**: replace `public/assets/asm-shaikat.jpg`.
+- **SEO**: update `siteUrl`, descriptions and the JSON-LD block in [`layout.tsx`](src/app/layout.tsx).
+
+## Deployment
+
+`next.config.ts` sets `output: 'export'`, so `npm run build` produces a fully static site in `out/`. The live site is hosted on Netlify. Any static host works (Netlify, Vercel, GitHub Pages, Cloudflare Pages):
+
+- **Build command:** `npm run build`
+- **Publish directory:** `out`
+
+## Contact
+
+- Website: [shaikat.netlify.app](https://shaikat.netlify.app)
+- GitHub: [@asm-shaikat](https://github.com/asm-shaikat)
+- LinkedIn: [in/asm-shaikat](https://linkedin.com/in/asm-shaikat)
+- Email: [asmshaikat1952@gmail.com](mailto:asmshaikat1952@gmail.com)
